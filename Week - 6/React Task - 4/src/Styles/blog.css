@@ -1,0 +1,25 @@
+.blog-container {
+  width: 80%;
+  margin: auto;
+  padding-top: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.post {
+  background-color: #f9f9f9;
+  border-left: 6px solid #4caf50;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  border-radius: 8px;
+}
+
+.post h3 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.post p {
+  color: #555;
+  line-height: 1.6;
+}
